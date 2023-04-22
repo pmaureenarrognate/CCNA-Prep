@@ -1,5 +1,5 @@
 # CCNA Training and Review Guide
-#### Hi Join me as I prepare for my upcoming exam to get CCNA! 
+#### Hi Join me as I prepare for my upcoming exam to certify for CCNA! 
 This guide is designed to help you and me  prepare for the CCNA certification exam. 
 
 ### Big thanks to MNET IT Solutions for providing me a Module and even practice exams. 
