@@ -1,1 +1,1 @@
-
+# Exercises thoughout my journey
