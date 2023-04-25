@@ -1,4 +1,4 @@
-# CCNA Training and Review Guide
+# CCNA REVIEW
 #### Hi Join me as I prepare for my upcoming exam to certify for CCNA! 
 This guide is designed to help you and me  prepare for the CCNA certification exam. 
 
