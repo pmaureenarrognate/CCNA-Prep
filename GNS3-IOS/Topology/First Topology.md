@@ -1,6 +1,8 @@
 
 ###
-## My first topology
+<div align="center">
+  <h1>First Topology </h1>
+</div>
 
  While studying for CCNA. I tried to create a basic topology using GNS3 without apply any configurations. I used ISOs c2691,c3725, and c7200. I had to start the router (turned on in simulation) and clicked Idle-PC so my laptop will lower its utilization. 
 
