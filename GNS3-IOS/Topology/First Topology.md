@@ -6,3 +6,5 @@
 
  GNS3 (Graphical Network Simulator) is a network emulator software used to design, build and simulate complex networks. It allows users to create virtual network topologies and run various networking devices, including routers, switches, firewalls, and other network appliances. GNS3 uses real network operating systems such as Cisco IOS, Juniper JunOS, and others to provide a realistic environment for network testing, design, and troubleshooting.
 I've downloaded GNS3 on their website "https://www.gns3.com/". It is free, you just have to  create an account
+
+![This is my first topology using GNS3](FIRST-TOPOLOGY.jpg)
