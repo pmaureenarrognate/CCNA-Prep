@@ -1,8 +1,2 @@
 # CCNA REVIEW
-#### Hi Join me as I prepare for my upcoming exam to certify for CCNA! 
-This guide is designed to help you and me  prepare for the CCNA certification exam. 
-
-### Big thanks to MNET IT Solutions for providing me a Module and even practice exams. 
----Note that MNET IT Solutions used "Taglish Language"Philippine Language ( Tagalog mix with English words), modules, and videos are only available if you purchase their Module at https://courses.mnet-it.com.
-All labs that will be posted here will be coming from different resouces. I will share to you how I understand the training modules and what challenges I had during this Journey. 
-Contents from MNET IT Solutions will not be posted here. ---
+"Hi, join me as I prepare for my upcoming CCNA certification exam! This guide is designed to help both of us prepare for the exam. A big thanks to MNET IT Solutions for providing me with a module and practice exams. Please note that MNET IT Solutions used a "Taglish Language" (a Philippine language mixed with English words) in their modules and videos, which are only available for purchase at https://courses.mnet-it.com. All labs posted here will come from different resources. I will share with you how I understand the training modules and what challenges I faced during this journey. However, please note that I will not post any content from MNET IT Solutions here.
