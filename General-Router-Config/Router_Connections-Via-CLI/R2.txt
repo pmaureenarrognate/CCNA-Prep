@@ -1,0 +1,29 @@
+R2 serial 0/0/0
+
+-----------
+Router>en
+Router#show contr
+Router#show controllers ser
+Router#show controllers serial 0/0/0
+Interface Serial0/0/0
+Hardware is PowerQUICC MPC860
+DCE V.35, clock rate 2000000
+idb at 0x81081AC4, driver data structure at 0x81084AC0
+SCC Registers:
+General [GSMR]=0x2:0x00000000, Protocol-specific [PSMR]=0x8
+Events [SCCE]=0x0000, Mask [SCCM]=0x0000, Status [SCCS]=0x00
+Transmit on Demand [TODR]=0x0, Data Sync [DSR]=0x7E7E
+Interrupt Registers:
+Config [CICR]=0x00367F80, Pending [CIPR]=0x0000C000
+Mask   [CIMR]=0x00200000, In-srv  [CISR]=0x00000000
+Command register [CR]=0x580
+Port A [PADIR]=0x1030, [PAPAR]=0xFFFF
+       [PAODR]=0x0010, [PADAT]=0xCBFF
+Port B [PBDIR]=0x09C0F, [PBPAR]=0x0800E
+       [PBODR]=0x00000, [PBDAT]=0x3FFFD
+Port C [PCDIR]=0x00C, [PCPAR]=0x200
+       [PCSO]=0xC20,  [PCDAT]=0xDF2, [PCINT]=0x00F
+Receive Ring
+        rmd(68012830): status 9000 length 60C address 3B6DAC4
+        rmd(68012838): status B000 length 60C address 3B6D444
+Transmit Ring
