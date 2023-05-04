@@ -1,6 +1,6 @@
 R2 s0/0/1
 
----------
+----------
 Router>en
 Router#show contr
 Router#show controllers ser
