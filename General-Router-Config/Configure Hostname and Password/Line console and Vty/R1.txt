@@ -7,3 +7,29 @@ R1(config-line)#login
 % Login disabled on line 0, until 'password' is set
 R1(config-line)#pass
 R1(config-line)#password cisco
+
+
+R1>en
+Password: 
+R1#config
+Configuring from terminal, memory, or network [terminal]? t
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#line v
+R1(config)#line vty ?
+  <0-15>  First Line number
+R1(config)#line vty 0 4
+R1(config-line)#login
+% Login disabled on line 132, until 'password' is set
+% Login disabled on line 133, until 'password' is set
+% Login disabled on line 134, until 'password' is set
+% Login disabled on line 135, until 'password' is set
+% Login disabled on line 136, until 'password' is set
+R1(config-line)#pas
+R1(config-line)#password cisco
+R1(config-line)#ex
+R1(config-line)#exe
+R1(config-line)#exec-timeout 0 0
+R1(config-line)#exit
+R1(config)#^Z
+R1#
+%SYS-5-CONFIG_I: Configured from console by console
