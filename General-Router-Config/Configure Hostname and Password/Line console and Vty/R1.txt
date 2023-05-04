@@ -1,1 +1,9 @@
-
+R1>en
+Password: 
+R1#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#line console 0
+R1(config-line)#login
+% Login disabled on line 0, until 'password' is set
+R1(config-line)#pass
+R1(config-line)#password cisco
