@@ -7,3 +7,17 @@ R1(config)#enable password cisco
 R1(config)#exit
 R1#
 %SYS-5-CONFIG_I: Configured from console by console
+
+
+--------------------
+----> SHOW RUN 
+
+Router>en
+Router#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#hostname R1
+R1(config)#enable pass
+R1(config)#enable password cisco
+R1(config)#exit
+R1#
+%SYS-5-CONFIG_I: Configured from console by console
