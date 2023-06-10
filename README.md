@@ -1,2 +1,2 @@
-# CCNA REVIEW
+# Journey in Networking World
 "Hi, join me as I prepare for my upcoming CCNA certification exam! A big thanks to MNET IT Solutions for providing me with a module and practice exams. Please note that MNET IT Solutions used a "Taglish Language" (a Philippine language mixed with English words) in their modules and videos, which are only available for purchase at https://courses.mnet-it.com. All labs posted here will come from different resources. I will share with you how I understand the training modules and what challenges I faced during this journey. 
